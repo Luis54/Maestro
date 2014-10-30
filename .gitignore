@@ -1,0 +1,10 @@
+#fichero para excluir algún tipo de fichero
+
+#backup del sistema
+
+*~
+*.swp
+
+#bytecode (.class)
+
+*.class
